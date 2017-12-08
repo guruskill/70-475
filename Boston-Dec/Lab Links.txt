@@ -1,1 +1,12 @@
+http://aka.ms/boston475content
+
+usql lab
 https://github.com/Azure/AzureDataLake/blob/master/docs/Hands_on_Labs/USQL_HOL.md
+
+adf lab
+https://github.com/MicrosoftLearning/Orchestrating-Big-Data-with-ADF/tree/master/Labs
+
+architectures
+http://aka.ms/A3G 
+http://aka.ms/ADAG
+

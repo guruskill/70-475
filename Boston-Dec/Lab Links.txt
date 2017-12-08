@@ -1,0 +1,1 @@
+https://github.com/Azure/AzureDataLake/blob/master/docs/Hands_on_Labs/USQL_HOL.md

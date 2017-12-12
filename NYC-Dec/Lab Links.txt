@@ -1,0 +1,13 @@
+Links to the labs:
+
+
+U-SQL, 12:45pm
+Todd Barron (RedPoint)	
+Instructor Led Lab “Introduction to U-SQL”, 90m
+https://github.com/Azure/AzureDataLake/blob/master/docs/Hands_on_Labs/USQL_HOL.md
+https://github.com/Azure/AzureDataLake/blob/master/docs/Hands_on_Labs/USQL_Cognitive_ILL.md (time permitting)
+
+ADF, 2:30pm
+Ivan Kosyakov (Microsoft)	
+Instructor Led Lab “Orchestrating Big Data Solutions with Azure Data Factory”, 90m
+https://github.com/MicrosoftLearning/Orchestrating-Big-Data-with-ADF/tree/master/Labs (will do 3-4 labs)
